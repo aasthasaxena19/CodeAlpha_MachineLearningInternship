@@ -1,0 +1,1 @@
+🤖 CodeAlpha ML Internship | Task 1: Credit Scoring Model (Random Forest + Logistic Regression) | Task 2: Emotion Recognition from Speech (CNN + LSTM + MFCC) | Built with Python, Scikit-learn, TensorFlow & Librosa
