@@ -239,8 +239,6 @@ python emotion_recognition.py
 
 - 🌐 **CodeAlpha Website:** [www.codealpha.tech](https://www.codealpha.tech)
 - 📧 **Email:** services@codealpha.tech
-- 💼 **LinkedIn:** [Your LinkedIn Profile URL]
-- 🐙 **GitHub:** [Your GitHub Profile URL]
 
 ---
 
